@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/343622510143562076/fcc8381f084d437c892cbaf41dd44af4/artifacts
+end_time: 1697721458754
+entry_point_name: ''
+experiment_id: '343622510143562076'
+lifecycle_stage: active
+run_id: fcc8381f084d437c892cbaf41dd44af4
+run_name: dazzling-chimp-326
+run_uuid: fcc8381f084d437c892cbaf41dd44af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697721458525
+status: 3
+tags: []
+user_id: const

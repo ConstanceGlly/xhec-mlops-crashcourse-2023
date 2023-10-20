@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1697791861077
+current_stage: None
+description: null
+last_updated_timestamp: 1697791861077
+name: iris_lr_model
+run_id: bb9d49e2588d48a485244c30eea95367
+run_link: null
+source: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/343622510143562076/bb9d49e2588d48a485244c30eea95367/artifacts/models_1
+status: READY
+status_message: null
+user_id: null
+version: 3

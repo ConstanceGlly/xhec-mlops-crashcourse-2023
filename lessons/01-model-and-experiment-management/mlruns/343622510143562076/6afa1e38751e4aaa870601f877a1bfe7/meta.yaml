@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/343622510143562076/6afa1e38751e4aaa870601f877a1bfe7/artifacts
+end_time: 1697720945013
+entry_point_name: ''
+experiment_id: '343622510143562076'
+lifecycle_stage: active
+run_id: 6afa1e38751e4aaa870601f877a1bfe7
+run_name: clumsy-finch-360
+run_uuid: 6afa1e38751e4aaa870601f877a1bfe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697720944883
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/582388238533621663
+creation_time: 1697792064310
+experiment_id: '582388238533621663'
+last_update_time: 1697792064310
+lifecycle_stage: active
+name: /mlflow/linear_reg_test

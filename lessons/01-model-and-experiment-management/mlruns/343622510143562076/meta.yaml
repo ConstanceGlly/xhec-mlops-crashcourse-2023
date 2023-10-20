@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/343622510143562076
+creation_time: 1697720219898
+experiment_id: '343622510143562076'
+last_update_time: 1697720219898
+lifecycle_stage: active
+name: iris-experiment-1

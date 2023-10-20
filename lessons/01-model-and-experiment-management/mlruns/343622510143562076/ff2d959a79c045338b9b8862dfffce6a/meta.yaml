@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/343622510143562076/ff2d959a79c045338b9b8862dfffce6a/artifacts
+end_time: 1697722904754
+entry_point_name: ''
+experiment_id: '343622510143562076'
+lifecycle_stage: active
+run_id: ff2d959a79c045338b9b8862dfffce6a
+run_name: illustrious-calf-654
+run_uuid: ff2d959a79c045338b9b8862dfffce6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697722904560
+status: 3
+tags: []
+user_id: const

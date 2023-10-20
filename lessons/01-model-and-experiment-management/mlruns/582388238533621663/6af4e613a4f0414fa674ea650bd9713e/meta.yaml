@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/582388238533621663/6af4e613a4f0414fa674ea650bd9713e/artifacts
+end_time: 1697792134514
+entry_point_name: ''
+experiment_id: '582388238533621663'
+lifecycle_stage: active
+run_id: 6af4e613a4f0414fa674ea650bd9713e
+run_name: abrasive-cod-900
+run_uuid: 6af4e613a4f0414fa674ea650bd9713e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697792064377
+status: 3
+tags: []
+user_id: const

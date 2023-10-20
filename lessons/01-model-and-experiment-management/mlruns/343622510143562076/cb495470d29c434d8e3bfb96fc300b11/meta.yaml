@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/const/OneDrive/Documents/GitHub/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/343622510143562076/cb495470d29c434d8e3bfb96fc300b11/artifacts
+end_time: 1697720950633
+entry_point_name: ''
+experiment_id: '343622510143562076'
+lifecycle_stage: active
+run_id: cb495470d29c434d8e3bfb96fc300b11
+run_name: abundant-bee-626
+run_uuid: cb495470d29c434d8e3bfb96fc300b11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697720950463
+status: 3
+tags: []
+user_id: const
