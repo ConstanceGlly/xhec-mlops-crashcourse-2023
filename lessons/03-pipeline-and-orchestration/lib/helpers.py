@@ -1,3 +1,5 @@
+from typing import Any 
+
 import pickle
 import random
 
@@ -10,7 +12,7 @@ def load_pickle(path: str):
     return loaded_obj
 
 
-def save_pickle(path: str, obj: dict):
+def save_pickle(path: str, obj: Any):
     with open(path, "wb") as f:
         pickle.dump(obj, f)
 
